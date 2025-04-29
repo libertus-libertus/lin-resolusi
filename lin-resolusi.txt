@@ -1,4 +1,5 @@
 LIN RESOLUSI
+
 - Belajar Javascript Framework
   * React.Js
   * Vue.Js
@@ -7,3 +8,9 @@ LIN RESOLUSI
   * MySQL
   * PostGreSQL
   * SQL Server 2008
+- Belajar PHP 
+ * PHP OOP
+ * PHP Framework
+   > Laravel
+   > CodeIgniter
+   > Yi
