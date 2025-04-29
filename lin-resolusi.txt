@@ -1,0 +1,4 @@
+LIN RESOLUSI
+- Konsisten untuk belajar javascript(React.js) 3x seminggu
+- Konsisten belajar php(laravel) 3x seminggu 
+- Konsisten belajar database(mysql)
