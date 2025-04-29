@@ -2,5 +2,6 @@ LIN RESOLUSI
 - Konsisten untuk belajar javascript(React.js) 3x seminggu
 - Konsisten belajar php(laravel) 3x seminggu 
 - Sambil belajar linux(ubuntu) operating system
+- Struktur Data Dasar
 - Kolaborasi tim expert
 - Belajar postgresql 
