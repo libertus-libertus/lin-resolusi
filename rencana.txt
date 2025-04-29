@@ -1,5 +1,7 @@
 LIN Belajar
-- Vue Js
+- Vue Js 
+  - Buat landing page
+  - Buat portal berita API
 - React Js
 - Flutter
 - Dart
