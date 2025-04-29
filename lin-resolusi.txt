@@ -5,3 +5,9 @@ LIN RESOLUSI
 - Struktur Data Dasar
 - Kolaborasi tim expert
 - Belajar postgresql 
+- Belajar Javascript
+  * ES6
+  * Framework Javascript
+    ^ Vue.Js
+    ^ React.js
+    ^ Angular.Js
