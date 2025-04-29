@@ -1,0 +1,9 @@
+LIN Belajar
+- Vue Js 
+  - Buat landing page
+  - Buat portal berita API
+- React Js
+- Flutter
+- Dart
+- Node Js
+- Express Js
